@@ -27,22 +27,23 @@
 ---
 
 <br>
-<span>Desktop Desgin</span><br/>
-<a href="" target="_blank" >
+<span>Desktop Design</span><br/>
+<a href="https://www.behance.net/gallery/224908739/Interactive-Book-UI-with-Hover-Effects-and-Seamless-UX" target="_blank" >
 <img src="./img/bookCover.gif" width="575px"/>
 </a>
 <br />
-<span>Desktop Desgin ui-ux Layout</span><br/>
-<a href="" target="_blank" >
+<span>Desktop Design </span><br/>
+<a href="https://www.behance.net/gallery/224908739/Interactive-Book-UI-with-Hover-Effects-and-Seamless-UX" target="_blank" >
 <img src="./img/bookCover.png" width="475px"/>
 </a>
 <br />
-<span>Desktop Desgin</span><br/>
-<a href="" target="_blank" >
+<span>Desktop Hover Effect Design</span><br/>
+<a href="https://www.behance.net/gallery/224908739/Interactive-Book-UI-with-Hover-Effects-and-Seamless-UX" target="_blank" >
 <img src="./img/bookHover.png" width="475px"/>
 </a>
+<br />
 <span>Cover</span><br/>
-<a href="" target="_blank" >
+<a href="https://www.behance.net/gallery/224908739/Interactive-Book-UI-with-Hover-Effects-and-Seamless-UX" target="_blank" >
 <img src="./img/cover.png" width="575px"/>
 </a>
 
